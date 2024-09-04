@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestSuite1">
+  <test thread-count="5" name="IntegrationTest">
+    <classes>
+      <class name="juiceShop.RegisterPage"/>
+      <class name="juiceShop.LoginPage"/>
+      
+    </classes>
+  </test> <!-- IntegrationTest -->
+</suite> <!-- TestSuite1 -->

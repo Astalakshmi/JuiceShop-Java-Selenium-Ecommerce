@@ -1,0 +1,40 @@
+[ERROR] 2024-08-28 20:18:19.463 [main] LoggerLoad - Error Message :Invalid coupon.
+[INFO ] 2024-08-28 20:18:27.459 [main] LoggerLoad -  Print OrderID :Order ID
+#62b7-6e26a71ba54ab54f
+[INFO ] 2024-08-28 20:18:27.561 [main] LoggerLoad - Print_Track_Ordered Products :Search Results -
+Expected Delivery
+Days
+Ordered products
+Product
+Price
+Quantity
+Total Price
+Bonus Points Earned: {{bonus}}
+(The bonus points from this order will be added 1:1 to your wallet ¤-fund for future purchases!)
+[ERROR] 2024-08-29 08:54:05.577 [main] LoggerLoad - Error Message :Invalid coupon.
+[INFO ] 2024-08-29 08:54:13.569 [main] LoggerLoad -  Print OrderID :Order ID
+#62b7-b323e71f5cc4c728
+[INFO ] 2024-08-29 08:54:13.660 [main] LoggerLoad - Print_Track_Ordered Products :Search Results -
+Expected Delivery
+Days
+Ordered products
+Product
+Price
+Quantity
+Total Price
+Bonus Points Earned: {{bonus}}
+(The bonus points from this order will be added 1:1 to your wallet ¤-fund for future purchases!)
+[ERROR] 2024-08-29 09:18:53.853 [main] LoggerLoad - Error Message :Invalid coupon.
+[INFO ] 2024-08-29 09:19:01.774 [main] LoggerLoad -  Print OrderID :Order ID
+#62b7-94a34c1ef05eea79
+[INFO ] 2024-08-29 09:19:01.858 [main] LoggerLoad - Print_Track_Ordered Products :Product
+Price
+Quantity
+Total Price
+[ERROR] 2024-08-30 00:13:50.734 [main] LoggerLoad - Error Message :Invalid coupon.
+[INFO ] 2024-08-30 00:13:58.705 [main] LoggerLoad -  Print OrderID :Order ID
+#62b7-5521b695c38a64b2
+[INFO ] 2024-08-30 00:13:58.790 [main] LoggerLoad - Print_Track_Ordered Products :Product
+Price
+Quantity
+Total Price
